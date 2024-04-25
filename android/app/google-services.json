@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466484452595",
+    "project_id": "cdbms-5d29d",
+    "storage_bucket": "cdbms-5d29d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466484452595:android:2006cfc99d7c3434e22b86",
+        "android_client_info": {
+          "package_name": "com.example.cdbms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ved5RZy0jXIc8hiFLDXLFXMqmGnegbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
